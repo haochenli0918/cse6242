@@ -1,0 +1,102 @@
+[
+  {
+    "zipcode": 30030,
+    "co_bedrooms": 139.2157688902698,
+    "co_bathrooms": 615.9928718931586
+  },
+  {
+    "zipcode": 30303,
+    "co_bedrooms": -5022.754098360654,
+    "co_bathrooms": 5022.672131147541
+  },
+  {
+    "zipcode": 30306,
+    "co_bedrooms": 914.0024247949905,
+    "co_bathrooms": 843.8817807472483
+  },
+  {
+    "zipcode": 30307,
+    "co_bedrooms": 358.18100774745466,
+    "co_bathrooms": 1135.001306999564
+  },
+  {
+    "zipcode": 30308,
+    "co_bedrooms": 387.47904151624556,
+    "co_bathrooms": 520.2909259927796
+  },
+  {
+    "zipcode": 30309,
+    "co_bedrooms": 335.357504167738,
+    "co_bathrooms": 1221.5194763123081
+  },
+  {
+    "zipcode": 30310,
+    "co_bedrooms": 172.327684079559,
+    "co_bathrooms": 441.181301733225
+  },
+  {
+    "zipcode": 30311,
+    "co_bedrooms": 197.27085624793463,
+    "co_bathrooms": 426.4667653409013
+  },
+  {
+    "zipcode": 30312,
+    "co_bedrooms": 288.89838383149663,
+    "co_bathrooms": 389.48021802933323
+  },
+  {
+    "zipcode": 30313,
+    "co_bedrooms": -611.1180124223598,
+    "co_bathrooms": 1958.5093167701868
+  },
+  {
+    "zipcode": 30314,
+    "co_bedrooms": 60.646707503828594,
+    "co_bathrooms": 445.86554364471687
+  },
+  {
+    "zipcode": 30315,
+    "co_bedrooms": -60.954300289340694,
+    "co_bathrooms": 400.7446240082264
+  },
+  {
+    "zipcode": 30316,
+    "co_bedrooms": -72.31179620337187,
+    "co_bathrooms": 618.8708480045303
+  },
+  {
+    "zipcode": 30324,
+    "co_bedrooms": 199.83773355494012,
+    "co_bathrooms": 630.2778130378574
+  },
+  {
+    "zipcode": 30317,
+    "co_bedrooms": 218.56017004651247,
+    "co_bathrooms": 376.3611387394475
+  },
+  {
+    "zipcode": 30318,
+    "co_bedrooms": -26.446198460011868,
+    "co_bathrooms": 549.6085643592988
+  },
+  {
+    "zipcode": 30329,
+    "co_bedrooms": 156.25224940667093,
+    "co_bathrooms": 321.6760479856778
+  },
+  {
+    "zipcode": 30344,
+    "co_bedrooms": 170.91148226107939,
+    "co_bathrooms": 369.2674201268188
+  },
+  {
+    "zipcode": 30354,
+    "co_bedrooms": 62.60734463276837,
+    "co_bathrooms": 238.01129943502832
+  },
+  {
+    "zipcode": 30363,
+    "co_bedrooms": -311.1610429447852,
+    "co_bathrooms": 758.064417177914
+  }
+]
